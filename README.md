@@ -1,5 +1,5 @@
-# Angular QuickStart Source
-[![Build Status][travis-badge]][travis-badge-url]
+# Angular The Tour of Heroes tutorial Source
+[![Build Status](https://travis-ci.org/zaksid/angular-tour-of-heroes.svg?branch=master)](https://travis-ci.org/zaksid/angular-tour-of-heroes)
 
 This repository holds the TypeScript source code of the [angular.io The Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/)  tutorial project.
 
