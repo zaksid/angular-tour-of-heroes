@@ -1,5 +1,6 @@
 # Angular The Tour of Heroes tutorial Source
-[![Build Status](https://travis-ci.org/zaksid/angular-tour-of-heroes.svg?branch=master)](https://travis-ci.org/zaksid/angular-tour-of-heroes)
+[![Build Status][travis-badge]][travis-badge-url]
+[![MIT License][license-image]][license-url] 
 
 This repository holds the TypeScript source code of the [angular.io The Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/)  tutorial project.
 
@@ -106,5 +107,8 @@ which is easier to read; this file is excluded from source control.
 
 Shut it down manually with `Ctrl-C`.
 
-[travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
-[travis-badge-url]: https://travis-ci.org/angular/quickstart
+[license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: LICENSE
+
+[travis-badge]: https://travis-ci.org/zaksid/angular-tour-of-heroes.svg?branch=master
+[travis-badge-url]: https://travis-ci.org/zaksid/angular-tour-of-heroes
